@@ -2,25 +2,30 @@
 
 # 📺 TV Nacional
 
-#EXTINF:-1 group-title="TV Nacional",Vingadores Animação PT
+#EXTINF:-1 group-title="TV Nacional",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://list.iptvcat.com/my_list/s/a6c162af7edec517f726e606da83271b
+https://list.iptvcat.com/my_list/s/f69bee4ae584ef054f12496cbc0a1ad8
 
-#EXTINF:-1 group-title="TV Nacional",Filmes Animação PT
+#EXTINF:-1 group-title="TV Nacional",RTP2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137513
+https://list.iptvcat.com/my_list/s/0ce7468d16dbc8c1c7355981ea050cf3
 
-#EXTINF:-1 group-title="TV Nacional",NETFLIX Kids PT
+#EXTINF:-1 group-title="TV Nacional",SIC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137524
+https://list.iptvcat.com/my_list/s/265b87a3c060e405c8a8a32e38b486ad
 
-#EXTINF:-1 tvg-id="" group-title="TV Nacional,Dragon Ball Super
+#EXTINF:-1 group-title="TV Nacional",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137512
+https://list.iptvcat.com/my_list/s/a6c162af7edec517f726e606da83271b
+
+#EXTINF:-1 group-title="TV Nacional",CNN Portugal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://list.iptvcat.com/my_list/s/913534e7c93df4bab04fe3a1cd10aa0f
 
 
 # 📺 TV Filmes

@@ -1,23 +1,23 @@
 #EXTM3U
 
-# 📺 TV Junior
+# 📺 TV Nacional
 
-#EXTINF:-1 group-title="TV Junior",Vingadores Animação PT
+#EXTINF:-1 group-title="TV Nacional",Vingadores Animação PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137514
+https://list.iptvcat.com/my_list/s/1f6e5afd43e1b1eb7379cbe8498f23d6.m3u8
 
-#EXTINF:-1 group-title="TV Junior",Filmes Animação PT
+#EXTINF:-1 group-title="TV Nacional",Filmes Animação PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137513
 
-#EXTINF:-1 group-title="TV Junior",NETFLIX Kids PT
+#EXTINF:-1 group-title="TV Nacional",NETFLIX Kids PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137524
 
-#EXTINF:-1 tvg-id="" group-title="ANIMES",Dragon Ball Super
+#EXTINF:-1 tvg-id="" group-title="TV Nacional,Dragon Ball Super
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137512

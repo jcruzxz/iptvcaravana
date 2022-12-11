@@ -1,0 +1,148 @@
+#EXTM3U
+
+# 📺 TV Junior
+
+#EXTINF:-1 group-title="TV Junior",Vingadores Animação PT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137514
+
+#EXTINF:-1 group-title="TV Junior",Filmes Animação PT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137513
+
+#EXTINF:-1 group-title="TV Junior",NETFLIX Kids PT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137524
+
+#EXTINF:-1 tvg-id="" group-title="ANIMES",Dragon Ball Super
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137512
+
+
+# 📺 TV Filmes
+
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",HBO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137492
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",NETFLIX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137491
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/250px-Marvel_Studios_2016_logo.svg.png",MARVEL 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137493
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Marvel_Studios_2016_logo.svg/250px-Marvel_Studios_2016_logo.svg.png",MARVEL 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137490
+
+#EXTINF:-1 group-title="Filmes" tvg-logo="https://www.dccomics.com/sites/all/themes/dc_comics_bp/logo.png",DC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
+
+#EXTINF:-1 group-title="Filmes",STARWARS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
+
+#EXTINF:-1 group-title="Filmes",FILMES ACÇAO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137494
+
+#EXTINF:-1 group-title="Filmes",FILMES COMEDIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137497
+
+#EXTINF:-1 group-title="Filmes",FILMES JACKIE CHAN ADVENTURES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137500
+
+#EXTINF:-1 group-title="Filmes",Disney CineMagic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137521
+
+
+# 📺 TV Desporto
+
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-1-hd-pt.png",Sport TV1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/285911?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-2-hd-pt.png",Sport TV2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205667?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-3-hd-pt.png",Sport TV3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205668?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-4-hd-pt.png",Sport TV4 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1458?checkedby:iptvcat.com
+
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/sport-tv-5-hd-pt.png",Sport TV5 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1459?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-1-icon-pt.png",Eleven Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/158069?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-2-icon-pt.png",Eleven Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/158902?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-3-icon-pt.png",Eleven Sports 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/159765?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-4-icon-pt.png",Eleven Sports 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHBqT3QeTqafGeqdpT_KVuk?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-5-icon-pt.png",Eleven Sports 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNARPOsgyZUx0qHBIoslOzc?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/eleven-sports-6-icon-pt.png",Eleven Sports 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://fortv.cc:8080/alphonso/alphonso/78459
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/a-bola-tv-pt.png",A BOLA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136661?checkedby:iptvcat.com
+
+
+#EXTINF:-1 group-title="TV Desporto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/btv-pt.png",BENFICA TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161970?checkedby:iptvcat.com

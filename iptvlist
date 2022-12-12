@@ -76,5 +76,143 @@ https://list.iptvcat.com/my_list/s/59431a571f81a767c744b178f83c904b
 #KODIPROP:inputstream.adaptive.manifest_type=hl
 https://list.iptvcat.com/my_list/s/fbc3affc76fc13f9cfa9577a9b9ac2e4
 
+
 # 📺 Praias
 
+
+# Praias Almada
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - S. João
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - CDS Norte
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - CDS Sul
+https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Riviera
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Cabana do Pescador
+https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Fonte da Telha
+https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+
+# Praias Sesimbra
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lagoa de Albufeira
+https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Meco
+https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Bicas
+https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Sesimbra
+https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
+
+# Praias Alentejo
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Troia
+https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Comporta
+https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Carvalhal
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",S. Torpes
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Nova de Milfontes - Farol
+https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Nova de Milfontes - Furnas Mar
+https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Almograve - New
+https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Zambujeira do Mar
+https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
+
+# Praias Algarve
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Odeceixe
+https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Monte Clérigo
+https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Arrifana
+https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Luz
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Meia Praia
+https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferragudo - Praia Grande
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Armação de Pêra
+https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Galé
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vilamoura
+https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Faro
+https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alagoa - Altura
+https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Verde - Castro Marim
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+
+
+# 📺 RELAX TIME
+
+
+#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8?inspiration
+
+#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RELAX TIME" tvg-logo="https://goo.gl/wYPLrH",Relax 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8

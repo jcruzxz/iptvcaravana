@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="TV Nacional",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://list.iptvcat.com/my_list/s/cce7d2e1ec6fb9a11efb1a2274789e42.m3u8
+http://red.ipfox.org:8080/osama2022/osama2023/49354?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="TV Nacional",RTP2
 #KODIPROP:inputstream=inputstream.adaptive

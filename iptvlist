@@ -5,27 +5,27 @@
 #EXTINF:-1 group-title="TV Nacional",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://list.iptvcat.com/my_list/s/f69bee4ae584ef054f12496cbc0a1ad8
+https://list.iptvcat.com/my_list/s/f69bee4ae584ef054f12496cbc0a1ad8.m3u8
 
 #EXTINF:-1 group-title="TV Nacional",RTP2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://list.iptvcat.com/my_list/s/0ce7468d16dbc8c1c7355981ea050cf3
+https://list.iptvcat.com/my_list/s/0ce7468d16dbc8c1c7355981ea050cf3.m3u8
 
 #EXTINF:-1 group-title="TV Nacional",SIC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://list.iptvcat.com/my_list/s/265b87a3c060e405c8a8a32e38b486ad
+https://list.iptvcat.com/my_list/s/265b87a3c060e405c8a8a32e38b486ad.m3u8
 
 #EXTINF:-1 group-title="TV Nacional",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/a6c162af7edec517f726e606da83271b
+https://list.iptvcat.com/my_list/s/a6c162af7edec517f726e606da83271b.m3u8
 
 #EXTINF:-1 group-title="TV Nacional",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://list.iptvcat.com/my_list/s/913534e7c93df4bab04fe3a1cd10aa0f
+https://list.iptvcat.com/my_list/s/913534e7c93df4bab04fe3a1cd10aa0f.m3u8
 
 
 # 📺 TV Filmes
@@ -34,47 +34,47 @@ https://list.iptvcat.com/my_list/s/913534e7c93df4bab04fe3a1cd10aa0f
 #EXTINF:-1 group-title="Filmes",AXN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/ec92cf6927e4ddaa033518ee4d88c1ba
+https://list.iptvcat.com/my_list/s/ec92cf6927e4ddaa033518ee4d88c1ba.m3u8
 
 #EXTINF:-1 group-title="Filmes",Hollywood
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/4a4ea37efd1e90ea7521c8966a131ed3
+https://list.iptvcat.com/my_list/s/4a4ea37efd1e90ea7521c8966a131ed3.m3u8
 
 #EXTINF:-1 group-title="Filmes",Cinemundo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/44068e1b067e07e005803f1c7a762484
+https://list.iptvcat.com/my_list/s/44068e1b067e07e005803f1c7a762484.m3u8
 
 #EXTINF:-1 group-title="Filmes",DiscoveryChannel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/79e97ddb61892547af840787f0b9cda2
+https://list.iptvcat.com/my_list/s/79e97ddb61892547af840787f0b9cda2.m3u8
 
 #EXTINF:-1 group-title="Filmes",FOX Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/c60a6624b6bdec57c27142b415867921
+https://list.iptvcat.com/my_list/s/c60a6624b6bdec57c27142b415867921.m3u8
 
 #EXTINF:-1 group-title="Filmes",Nickelodeon
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/8d56ea972109fc914d61b1d5c3e4eb1e
+https://list.iptvcat.com/my_list/s/8d56ea972109fc914d61b1d5c3e4eb1e.m3u8
 
 #EXTINF:-1 group-title="Filmes",Odisseia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/a68864e66d23f5b730685e0969340187
+https://list.iptvcat.com/my_list/s/a68864e66d23f5b730685e0969340187.m3u8
 
 #EXTINF:-1 group-title="Filmes",Panda
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/59431a571f81a767c744b178f83c904b
+https://list.iptvcat.com/my_list/s/59431a571f81a767c744b178f83c904b.m3u8
 
 #EXTINF:-1 group-title="Filmes",TVCine Action
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hl
-https://list.iptvcat.com/my_list/s/fbc3affc76fc13f9cfa9577a9b9ac2e4
+https://list.iptvcat.com/my_list/s/fbc3affc76fc13f9cfa9577a9b9ac2e4.m3u8
 
 
 # 📺 Praias

@@ -10,7 +10,7 @@ http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 group-title="TV Nacional",RTP2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://red.ipfox.org:8080/Karam2022/Karam2023/49353?checkedby:iptvcat.com
+https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Nacional",SIC
 #KODIPROP:inputstream=inputstream.adaptive
